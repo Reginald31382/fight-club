@@ -32,3 +32,5 @@ function fight(player1, player2, player1Health, player2Health) {
          }
     }
 }
+
+fight("Reggie", "Labs" , 100, 100);
